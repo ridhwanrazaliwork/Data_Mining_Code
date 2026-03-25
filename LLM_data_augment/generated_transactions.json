@@ -1,0 +1,177 @@
+[
+  {
+    "transaction_id": "TXN001",
+    "amount": 45.99,
+    "date": "2026-01-05",
+    "category": "groceries",
+    "merchant": "Lazada"
+  },
+  {
+    "transaction_id": "TXN002",
+    "amount": 299.0,
+    "date": "2026-01-10",
+    "category": "electronics",
+    "merchant": "Shopee"
+  },
+  {
+    "transaction_id": "TXN003",
+    "amount": 85.5,
+    "date": "2026-01-12",
+    "category": "utilities",
+    "merchant": "Tenaga Nasional"
+  },
+  {
+    "transaction_id": "TXN004",
+    "amount": 120.0,
+    "date": "2026-01-15",
+    "category": "dining",
+    "merchant": "McDonald's"
+  },
+  {
+    "transaction_id": "TXN005",
+    "amount": 350.75,
+    "date": "2026-01-18",
+    "category": "transportation",
+    "merchant": "Grab"
+  },
+  {
+    "transaction_id": "TXN006",
+    "amount": 60.25,
+    "date": "2026-01-20",
+    "category": "entertainment",
+    "merchant": "Netflix"
+  },
+  {
+    "transaction_id": "TXN007",
+    "amount": 180.0,
+    "date": "2026-01-22",
+    "category": "clothing",
+    "merchant": "Zalora"
+  },
+  {
+    "transaction_id": "TXN008",
+    "amount": 99.9,
+    "date": "2026-01-25",
+    "category": "groceries",
+    "merchant": "Aeon"
+  },
+  {
+    "transaction_id": "TXN009",
+    "amount": 250.0,
+    "date": "2026-01-28",
+    "category": "electronics",
+    "merchant": "Digi"
+  },
+  {
+    "transaction_id": "TXN010",
+    "amount": 55.0,
+    "date": "2026-01-30",
+    "category": "health",
+    "merchant": "Pharmasi"
+  },
+  {
+    "transaction_id": "TXN011",
+    "amount": 320.5,
+    "date": "2026-02-02",
+    "category": "utilities",
+    "merchant": "CUCMS"
+  },
+  {
+    "transaction_id": "TXN012",
+    "amount": 75.8,
+    "date": "2026-02-05",
+    "category": "dining",
+    "merchant": "KFC"
+  },
+  {
+    "transaction_id": "TXN013",
+    "amount": 420.0,
+    "date": "2026-02-08",
+    "category": "electronics",
+    "merchant": "Best Denki"
+  },
+  {
+    "transaction_id": "TXN014",
+    "amount": 150.0,
+    "date": "2026-02-10",
+    "category": "transportation",
+    "merchant": "Shell"
+  },
+  {
+    "transaction_id": "TXN015",
+    "amount": 110.2,
+    "date": "2026-02-12",
+    "category": "entertainment",
+    "merchant": "Cinema XXI"
+  },
+  {
+    "transaction_id": "TXN016",
+    "amount": 90.0,
+    "date": "2026-02-15",
+    "category": "groceries",
+    "merchant": "Mydin"
+  },
+  {
+    "transaction_id": "TXN017",
+    "amount": 650.0,
+    "date": "2026-02-18",
+    "category": "electronics",
+    "merchant": "Amazon"
+  },
+  {
+    "transaction_id": "TXN018",
+    "amount": 40.75,
+    "date": "2026-02-20",
+    "category": "health",
+    "merchant": "Guardian"
+  },
+  {
+    "transaction_id": "TXN019",
+    "amount": 220.0,
+    "date": "2026-02-22",
+    "category": "utilities",
+    "merchant": "TimeDotCom"
+  },
+  {
+    "transaction_id": "TXN020",
+    "amount": 130.0,
+    "date": "2026-02-25",
+    "category": "dining",
+    "merchant": "Burger King"
+  },
+  {
+    "transaction_id": "TXN021",
+    "amount": 300.0,
+    "date": "2026-02-28",
+    "category": "transportation",
+    "merchant": "Public Bank"
+  },
+  {
+    "transaction_id": "TXN022",
+    "amount": 85.0,
+    "date": "2026-03-01",
+    "category": "entertainment",
+    "merchant": "Spotify"
+  },
+  {
+    "transaction_id": "TXN023",
+    "amount": 170.0,
+    "date": "2026-03-04",
+    "category": "groceries",
+    "merchant": "Carrefour"
+  },
+  {
+    "transaction_id": "TXN024",
+    "amount": 500.0,
+    "date": "2026-03-07",
+    "category": "electronics",
+    "merchant": "Lazada"
+  },
+  {
+    "transaction_id": "TXN025",
+    "amount": 200.0,
+    "date": "2026-03-10",
+    "category": "utilities",
+    "merchant": "TNB"
+  }
+]
